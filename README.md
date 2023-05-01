@@ -22,3 +22,6 @@ The solution will be a database that holds all these relevant information and th
 9.	Branch Number
 10.	Role
 11.	Total Profits/Total Losses
+
+### ERD
+![ERD](https://user-images.githubusercontent.com/108771890/235384696-83e63c96-96b6-402a-bccb-b05c73ed6cad.png)
