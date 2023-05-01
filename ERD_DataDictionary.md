@@ -1,5 +1,5 @@
 # ERD and Data Dictionary
-Members: Wai Hing William Tse, Alex Choi, Mehmet Kuzu
+
 ## ERD:
 ![ERD](https://user-images.githubusercontent.com/108771890/235384696-83e63c96-96b6-402a-bccb-b05c73ed6cad.png)
 
