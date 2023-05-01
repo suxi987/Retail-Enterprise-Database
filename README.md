@@ -1,4 +1,5 @@
 # Retail-Enterprise-Database
+Members: Wai Hing William Tse, Alex Choi, Mehmet Kuzu
 
 ### Introduction
 The industry that we will be making a database for is for the retail industry. The retail industry uses databases to keep check of inventory, item codes, shipment dates, payments, etc, and given that most people have worked in the retail sector before, this industry seems to be the perfect fit for having a database management system in place. Not only for the customer service side of the industry as well, as management also needs to keep track of employees, salaries, and other relevant information containing to the company.
